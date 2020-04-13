@@ -1,7 +1,7 @@
 /*Create a class with the following methods:
 Return type: void - Body: Iterate trough an Array and print the smallest number - Parameters: Array of integers.
 Return type: void - Body: Iterate trough a HashMap and print the value based on the Key - Parameters: None.*/
-package com.java.UnosquareJava.Ejercicio1.app.Ejerc1SegParte;
+package com.java.UnosquareJava.app.Ejercicio1;
 import java.util.Scanner;
 import java.util.Random;
 import java.util.Arrays;
