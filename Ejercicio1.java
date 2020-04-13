@@ -3,7 +3,7 @@ Return type: String - Body: Comparison between 2 words - Parameters : 2 strings.
 Return type: boolean - Body: Verify the biggest number in a list - Parameters: List/Array of integers.
 Return type: void - Body: Sort a list by asc and desc order - Parameters: List/Array of strings.
 Return type: int - body: Count the length of a string - Parameters: String.*/
-package com.java.UnosquareJava.Ejercicio1.app.Ejercicio1;
+package com.java.UnosquareJava.app.Ejercicio1;
 import java.util.Scanner;
 import java.util.Random;
 import java.util.Arrays;
